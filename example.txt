@@ -1,1 +1,7 @@
-"This is my first git file." 
+"This is my Git test file." 
+This is a new line added to check git diff.
+This is a new line added to check git diff.
+This is a new line added to check git diff.
+This is a new line added to check git diff.
+This is a new line added to check git diff.
+HELLLLLLLLLLLLLLLLLLLo"New line from feature branch" 
